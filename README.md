@@ -2,8 +2,7 @@ Conducted comprehensive data analysis of Blinkit using Excel and Power BI, creat
 
 
 Dashboard Link
-https://app.powerbi.com/groups/me/reports/c1ed273a-8c99-463f-8816-c51e559bbcbf/489a30592546dc419c26?experience=power-bi
-
+https://app.powerbi.com/links/QQCCaCiuNl?ctid=ffa5b9ed-b71c-4988-a7bb-e19b0f3c0030&pbi_source=linkShare
 
 
 
